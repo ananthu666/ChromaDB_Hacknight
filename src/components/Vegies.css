@@ -1,0 +1,20 @@
+.my4{
+    width: 25%; 
+    
+}
+
+.bord{
+    /* shadow */ 
+    box-shadow:15px 18px 0px 0px rgb(58 56 56);
+    
+    border:2px solid rgb(248, 226, 226);
+    border-Radius:10px;
+    
+    background-color: white;
+    color:green;
+    font-size:20px;
+    width:100%;
+    justify-Content:center;
+    text-align:center;
+    margin:2px;
+}

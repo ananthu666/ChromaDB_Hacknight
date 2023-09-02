@@ -1,0 +1,11 @@
+
+
+.comb{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  /* containers should be separated */
+  margin: 0 10px;
+  
+}
