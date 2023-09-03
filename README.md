@@ -10,8 +10,8 @@
 "NutriSync" is an innovative nutritional companion app designed to simplify and enhance your dietary choices. With an intuitive user interface, it allows you to input your desired protein, fat, and carbohydrate intake. The app then suggests 10 food items matching your criteria while also providing 5 delicious dishes and their recipes that you can prepare using these ingredients. NutriSync empowers users to make informed and delightful meal decisions, bridging the gap between nutrition and culinary inspiration for a healthier lifestyle.
 
 ## Team members
-1. ANANTHU JAYAKUMAR [https://github.com/ananthu666]
-2. ANSU JO ANOOJ [https://github.com/ansujo]
+1. ANANTHU JAYAKUMAR[https://github.com/ananthu666]
+2. ANSU JO ANOOJ[https://github.com/ansujo]
 
 # Link To Video - [Nutri_Sync](https://youtu.be/KhxVzsOxQHA)
 
