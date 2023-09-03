@@ -13,7 +13,7 @@
 1. ANANTHU JAYAKUMAR -> https://github.com/ananthu666
 2. ANSU JO ANOOJ -> https://github.com/ansujo
 
-# Link To Video - [Nutri_Sync](https://youtu.be/KhxVzsOxQHA)
+# Link To Video - [Nutri_Sync](https://youtu.be/5kSZHhUnWYQ)
 
 ## How it Works ?
 NutriSync operates by allowing users to input their preferred protein, fat, and carbohydrate values via its user-friendly interface. Once these nutritional preferences are set, the app's backend leverages the ChromaDB database to retrieve 10 food items that closely match the specified nutritional criteria. This dynamic process combines data-driven food recommendations with practical culinary ideas, empowering users to make informed and creative meal choices tailored to their dietary goals. NutriSync bridges the gap between nutrition and culinary inspiration, enhancing the user experience and promoting healthier eating habits.
